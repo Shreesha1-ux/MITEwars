@@ -1,0 +1,6 @@
+{
+  "name": "Campus Clash (College.io)",
+  "description": "Fast-paced arcade 3D First-Person Shooter set in a college campus courtyard. Move, sprint, jump, aim down sights, and clash with campus bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
