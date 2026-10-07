@@ -52,13 +52,7 @@ vercel --prod
 ## Local Development
 
 ```bash
-# Install dependencies
-npm install
 
-# Start development server
-npm run dev
-
-# Build for production
 npm run build
 
 # Preview production build locally
