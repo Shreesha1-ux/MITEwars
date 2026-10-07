@@ -49,10 +49,6 @@ vercel --prod
 
 ---
 
-## Local Development
-
-```bash
-
 npm run build
 
 # Preview production build locally
